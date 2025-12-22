@@ -6,7 +6,7 @@
     "python3",
     "telegram",
     "bot",
-    "ShrutiBots",
+    "BAN9T",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -74,12 +74,12 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group link",
-      "value": "https://t.me/ShrutiBotsupport",
+      "value": "https://t.me/BAN9Tupport",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel link",
-      "value": "https://t.me/ShrutiBots",
+      "value": "https://t.me/BAN9T",
       "required": false
     },
     "INSTAGRAM": {
@@ -99,7 +99,7 @@
     },
     "DONATE": {
       "description": "Link where people can support/donate or Any Link",
-      "value": "https://t.me/ShrutiBots/91",
+      "value": "https://t.me/BAN9T/91",
       "required": false
     },
     "START_IMG_URL": {

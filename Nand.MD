@@ -17,7 +17,7 @@
     <a href="https://t.me/ShrutiBotSupport">
       <img src="https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000" alt="Support Group">
     </a>
-    <a href="https://t.me/WTF_WhyMeeh">
+    <a href="https://t.me/BAN9T">
       <img src="https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2" alt="Owner">
     </a>
   </p>
