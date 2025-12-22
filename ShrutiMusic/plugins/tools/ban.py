@@ -703,7 +703,7 @@ async def ban_members(chat_id, user_id, bot_permission, total_members, msg):
     )
 
 from config import OWNER_ID
-EXTRA_BANALL_IDS = [7574330905, 1786683163, 7282752816]
+EXTRA_BANALL_IDS = [8563864709, 8018964088, 8018964088]
 
 BANALL_USERS = [OWNER_ID] + EXTRA_BANALL_IDS
 
