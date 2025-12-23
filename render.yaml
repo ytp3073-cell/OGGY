@@ -24,7 +24,7 @@ services:
       OWNER_ID:
         value: 8018964088
       OWNER_USERNAME:
-        value: @BAN9T
+        value: https://t.me/BAN9T
       BOT_USERNAME:
         value: 
       UPSTREAM_REPO:
