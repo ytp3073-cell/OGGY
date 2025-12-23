@@ -12,7 +12,7 @@ services:
 
     envVars:
       API_ID: 
-        value: 34393873=
+        value: 34393873
       API_HASH: 
         value: d1b23d08b98afc02a89431c6960872b9
       API_KEY:
