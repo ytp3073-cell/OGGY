@@ -12,19 +12,19 @@ services:
 
     envVars:
       API_ID: 
-        value: 34393873
+        value: "34393873"
       API_HASH: 
-        value: d1b23d08b98afc02a89431c6960872b9
+        value: "d1b23d08b98afc02a89431c6960872b9"
       API_KEY:
         sync: false
       BOT_TOKEN:
         sync: false
       MONGO_DB_URI: 
-        value: mongodb+srv://yacan69355:Cw92BrnfAfWQcLvU@cluster0.jh6h6wg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+        value: "mongodb+srv://yacan69355:Cw92BrnfAfWQcLvU@cluster0.jh6h6wg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       OWNER_ID:
-        value: 8018964088
+        value: "8018964088"
       OWNER_USERNAME:
-        value: https://t.me/BAN9T
+        value: "https://t.me/BAN9T"
       BOT_USERNAME:
         value: 
       UPSTREAM_REPO:
